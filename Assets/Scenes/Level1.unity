@@ -4682,11 +4682,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 1484394055}
-  rigidbody2D: {fileID: 1484394058}
+  playerRigidBody2D: {fileID: 1484394058}
   animator: {fileID: 1484394060}
   runBoost: 5
   jumpBoost: 600
-  climbBoost: 5
   capsuleCollider: {fileID: 1484394057}
   groundTrigger: {fileID: 733997157}
 --- !u!95 &1484394060
